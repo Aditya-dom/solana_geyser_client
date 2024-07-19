@@ -61,9 +61,9 @@ Fill out these fields:
 We'll use a local validator for this example, but this can be attached to a main/test/devnet validator.
 
 
-:::Important
-You HAVE to run the Solana Toolsuite (CLI) with the same version as this scripts Plugin Interface(view in Cargo.toml), and need to run the Plugin with the same Rust version you have built your Solana Toolsuite.
-:::
+> [!NOTE]
+> You HAVE to run the Solana Toolsuite (CLI) with the same version as this scripts Plugin Interface(view in Cargo.toml), and need to run the Plugin with the same Rust version you have built your Solana Toolsuite.
+
 
 For mac users, run: `solana-test-validator --geyser-plugin-config config/config.default.mac.json`.
 
