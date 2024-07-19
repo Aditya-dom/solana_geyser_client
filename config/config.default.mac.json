@@ -1,0 +1,6 @@
+{
+  "libpath": "../solana_geyser_client/default/target/release/libsolana_geyser_client.dylib",
+  "supabase_url": "https://zrbesfebeoqnhntuykgh.supabase.co/rest/v1",
+  "supabase_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpyYmVzZmViZW9xbmhudHV5a2doIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjEzOTgyNzYsImV4cCI6MjAzNjk3NDI3Nn0.G5NQhdHAW6W8ZvcoHFL8nz4DY854TEyqb4paYce1YgI",
+  "programs": ["TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"]
+}

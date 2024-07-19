@@ -1,0 +1,6 @@
+{
+  "libpath": "../solana_geyser_client/default/target/release/libsolana_geyser_client_default.so",
+  "supabase_url": "https://zrbesfebeoqnhntuykgh.supabase.co/rest/v1",
+  "supabase_key": "<key>",
+  "programs": ["TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"]
+}

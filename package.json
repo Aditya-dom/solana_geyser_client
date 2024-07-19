@@ -1,0 +1,9 @@
+{
+    "name": "solana_getser_client",
+    "version": "0.0.1",
+    "scripts": {
+      "build-default": "cargo build --manifest-path waverider/default/Cargo.toml --release",
+      "build-atlantic": "cargo build --manifest-path waverider/atlantic/Cargo.toml --release"
+    }
+  }
+  
