@@ -17,7 +17,7 @@ The difference between the two is that atlantic is also built to stream deserial
 
 ## Getting started
 
-### Clone Waverider
+### Clone solana_geyser_client
 
 ```
 git clone https://github.com/aditya-dom/solana_geyser_client.git
